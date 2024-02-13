@@ -2,7 +2,6 @@ import 'package:clima/screens/not_found_screen.dart';
 import 'package:clima/services/location.dart';
 import 'package:clima/services/networking.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:clima/utilities/constant.dart';
 import 'package:clima/services/weather.dart';
 import 'package:get/get.dart';
